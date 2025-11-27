@@ -4,6 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-writer - pre-med - vocalist
+writer - pre-med - vocalist - linguistics
 
 {: .prompt-tip }
